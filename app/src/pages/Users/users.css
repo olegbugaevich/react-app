@@ -1,0 +1,13 @@
+
+.list{
+    padding: 10px;
+    margin: 15px;
+    border-bottom: 1px solid black;
+}
+input{
+    width: 100%;
+    padding:10px;
+    margin: 0px 10px;
+    border: 2px solid #eee;
+    box-shadow:0 0 15px 4px rgba(0,0,0,0.06);
+}
